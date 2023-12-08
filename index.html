@@ -1,0 +1,166 @@
+<!DOCTYPE html>        
+<html lang="en">      
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <script src="https://kit.fontawesome.com/20d578e908.js" crossorigin="anonymous"></script>
+    <title>Lwando Madebe</title>
+</head>
+<body>
+  <div id="header">
+    <div class="container">
+      <nav>
+        <h2 class="logo">Lwando Madebe</h2>
+        <ul id="sidemenu">
+          <li><a href="#header">Home</a></li>
+          <li><a href="#about">About Me</a></li>
+          <li><a href="#projects">Projects</a></li>
+          <li><a href="#gallery">Gallery</a></li>
+          <li><a href="#contact">Contact Me</a></li>
+          <i class="fa-solid fa-xmark" onclick="closemenu()"></i>
+      </ul>
+      <i class="fa-solid fa-bars" onclick="openmenu()"></i>
+      </nav>
+      <div class="content">
+        <div class="picture">
+          <img src="images/profile.jpg">
+        </div>
+        <h4>Hello, my name is</h4>
+        <h1>Lwando <span>Madebe</span></h1>
+        <h3>I'm a Full Stack Developer.</h3>
+        <a href="images/Lwando-Madebe-CV.pdf" download class="btn btn2">Download CV</a>
+        <a href="https://github.com/LwandoMadebe" target="_blank" rel="noopener noreferrer"><i class="fab fa-github"></i></a>
+        <a href="https://gitlab.com/Madebe" target="_blank" rel="noopener noreferrer"><i class="fa-brands fa-gitlab"></i></a>
+        <a href="https://www.linkedin.com/in/lwando-madebe-260073226" target="_blank" rel="noopener noreferrer"><i class="fa-brands fa-linkedin"></i></a>
+        <a href="https://wa.me/27724944502" target="_blank" rel="noopener noreferrer"><i class="fa-brands fa-whatsapp"></i></a>
+      </div>
+    </div>
+  </div>
+    <!----About---->
+   <div id="about">
+       <div class="about-text">
+          <h1>About Me</h1>
+          <p>I recently completed my degree in Bachelor of commerce majoring in 
+            information systems and management at the University of the Western Cape. 
+            I am passionate about information system and eager to apply my academic
+            knowledge to my career in Software development . What excites me the most is 
+            the potential of technology to solve complex software development issues. 
+            I am excited to combine my technical skills with information system knowledge 
+            to deliver impact outcomes for my organization. </p>
+
+            <div class="tab-titles">
+               <p class="tab-links active-link" onclick="opentab('skills')">Skills</p>
+               <p class="tab-links" onclick="opentab('experience')">Experience</p>
+               <p class="tab-links" onclick="opentab('education')">Education</p>
+            </div>
+           <div class="tab-contents active-tab" id="skills">
+            <ul>
+              <li><span>Business Analysis</span><br>Designing, Documentation, user case, figma, prototype<br>project management,
+                user requirements, analytical skills, communication skills, business requirement,BRD,
+                requirement gathering, requirement specification.</li>
+              <li><span>Software Development</span><br>HTML, CSS, JavaScript,ReactJS, Python,Flutter,MySQL<br>PHP,
+                app development, dart, Django,XAMPP</li>
+            </ul>
+          </div> 
+          <div class="tab-contents" id="experience">
+            <ul>
+              <li><span>University of the Western Cape</span><br>02/2023 - 05/2023<br>Marketing tutor</li>
+              <li><span>University of the Western Cape</span><br>02/2023 - 04/2023<br>Research for Communication business tutor</li>
+            </ul>
+          </div> 
+          <div class="tab-contents" id="education">
+            <ul>
+              <li><span>University of the Western Cape</span><br>2019 - 2023<br>Bachelor of Commerce majoring in information Systems</li>
+              <li><span>Wiggins Secondary School</span><br>2014 - 2018<br>Commerce</li>
+            </ul>
+          </div> 
+       </div>
+      </div>
+   </div>
+   
+    <!---------Projects------->
+    <div id="projects">
+      <div class="container">
+        <h1>My Projects</h1>
+        <div class="project-list">
+          <div>
+            <img src="images/Somhale.png">
+            <h2>Somhale Mobile Application</h2>
+            <p>In 2021, during my third year, my group and I designed mobile application for 
+              Somhale Foundation so that people can apply for food vouchers using the app</p>
+              <a href="https://sites.google.com/myuwc.ac.za/teamrocket-website/home" target="_blank" rel="noopener noreferrer">+ Group website </a>
+          </div>
+          <div>
+            <img src="images/Weather.png">
+            <h2>Weather App <a href="https://github.com/LwandoMadebe/Weather-App " target="_blank" rel="noopener noreferrer"><i class="fab fa-github"></i></a></h2>
+            <p>Developed Weather App that allow people to search their city weather 
+              and plan their day accordingly and the app is deployed using Vercel App.<br>Dev stack: HTML, CSS, JavaScript, Visual Studio Code, Weather API, Vercel App</p>
+              <a href="https://weather-apps-tau.vercel.app/" target="_blank" rel="noopener noreferrer">+ Run Application</a>
+          </div>
+          <div>
+            <img src="images/e-commerce.png">
+            <h2>E-Commerce <a href="https://github.com/LwandoMadebe/e-commerce-website" target="_blank" rel="noopener noreferrer"><i class="fab fa-github"></i></a></h2>
+            <p>Designed and Developed an E-commerce website using my friends start up business that  
+              sells nails, hair, jewelry and provide services to her customers, deployed using github pages<br>Dev stack: React JS, CSS, HTML, Github pages .</p>
+              <a href="https://lwandomadebe.github.io/e-commerce-website" target="_blank" rel="noopener noreferrer">+ Run Application</a>
+          </div>
+          <div>
+            <img src="images/todolist.png">
+            <h2>To-do list App <a href="https://github.com/LwandoMadebe/To-do-list" target="_blank" rel="noopener noreferrer"><i class="fab fa-github"></i></a></h2>
+            <p>Developed To-do list app that can be used to help the user to organize and manage their tasks on a daily basis and the
+              is deployed using Vercel App.<br>Dev stack: HTML, CSS, JavaScript, Vercel App.
+            </p>
+              <a href="https://to-list-app-seven.vercel.app/" target="_blank" rel="noopener noreferrer">+ Run Application</a>
+          </div>  
+        </div>
+      </div>
+    </div>
+  <!---------------Gallery--------->
+  <div id="gallery">
+    <div class="container">
+      <h1>My Gallery</h1>
+      <div class="gallery-wrap">
+        <img src="images/back.png" id="backBtn">
+        <div class="photos">
+          <div>
+               <span><img src="images/Lwando.jpg"></span>
+               <span><img src="images/lwa.jpg"></span>
+               <span><img src="images/lwandile2.jpg"></span>
+          </div>
+          <div>
+            <span><img src="images/mlwandos.jpg"></span>
+            <span><img src="images/lwandile1.jpg"></span>
+            <span><img src="lwando.jpg"></span>
+       </div>
+        </div>
+        <img src="images/next.png" id="nextBtn">
+      </div>
+    </div>
+  </div>
+  <!--------------Contact---------->
+  <div id="contact">
+    <div class="container">
+      <h1>Contact Me</h1>
+      <p>Please contact me at <u>061 116 1690</u> or <u>lwandoluyolo@gmail.com</u> or fill the form below, and I will also 
+        appreciate your feedback to improve my portfolio.</p>
+        <div class="contact-form">
+        <form name="submit-to-google-sheet">
+          <input type="text" name="Name" placeholder="Your name" required>
+          <input type="email" name="Email" placeholder="Enter your email address" required>
+          <input type="subject" name="Subject" placeholder="Enter your subject" required>
+          <textarea name="Message"  rows="6" placeholder="Write your message"></textarea>
+          <button type="submit">Submit </button>
+        </form>
+        <span id="msg"></span>
+      </div>
+    </div>
+    <div class="copyright">
+      <p> © 2023 Lwando Madebe. All rights reserved.</p>
+      
+    </div>
+  </div>
+  <script src="myScript.js"></script> 
+  
+</body>
+</html>
