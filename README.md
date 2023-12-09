@@ -42,3 +42,5 @@ To make the website responsive to smaller screens like phones and tablets is bit
 Wanna learn how to display your projects, here is the link https://vercel.com/guides/deploying-react-with-vercel
 
 ###### Deploy your project using git hub pages 
+
+Here is how to create your portfolio and deploy it on github pages https://hoffstech.com/2023/03/how-to-create-a-github-portfolio/
