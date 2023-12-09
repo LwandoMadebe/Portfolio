@@ -37,6 +37,8 @@ To make the website responsive to smaller screens like phones and tablets is bit
 2. Add AI Chat bot to assist the user with the navigation of the website.
 3. Add all relavant information of each project on the portfolio.
 
-###### Deploy your project on vercel app
+###### Deploy your react project on vercel app
+
+Wanna learn how to display your projects, here is the link https://vercel.com/guides/deploying-react-with-vercel
 
 ###### Deploy your project using git hub pages 
