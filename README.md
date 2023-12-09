@@ -29,5 +29,14 @@ https://lwando-madebee.vercel.app
 #### Contact form Section 
 9. When user fills the form, the information will be sent to Google Sheets and I used App Scripts to connect the form to Google Sheets. 
 
-# Challenges
+## Challenges
 To make the website responsive to smaller screens like phones and tablets is bit hard. As much as I tried, the responsive of the website will differ from devices to devices.
+
+## Some noticable improvements that could be made
+1. Make the website responsive to all devices
+2. Add AI Chat bot to assist the user with the navigation of the website.
+3. Add all relavant information of each project on the portfolio.
+
+###### Deploy your project on vercel app
+
+###### Deploy your project using git hub pages 
