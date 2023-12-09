@@ -41,7 +41,7 @@ To make the website responsive to smaller screens like phones and tablets is bit
 
 ###### Deploy your react project on vercel app
 
-Wanna learn how to display your projects, here is the link https://vercel.com/guides/deploying-react-with-vercel
+Wanna learn how to deploy your projects, here is the link https://vercel.com/guides/deploying-react-with-vercel
 
 ###### Deploy your project using git hub pages 
 
