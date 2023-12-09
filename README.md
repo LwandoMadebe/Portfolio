@@ -8,6 +8,13 @@ The portfolio website is deployed using vercel app.
 https://lwando-madebee.vercel.app
 
 ## Langaunges and tools that are used in this projects. 
+![html](https://github.com/LwandoMadebe/Portfolio/assets/147529941/5ce1fc4a-4af9-4dfa-99c7-5b6b445de3a2)
+![css](https://github.com/LwandoMadebe/Portfolio/assets/147529941/3e8a3d62-4217-46bc-8d1b-13cd740308ab)
+![javascript](https://github.com/LwandoMadebe/Portfolio/assets/147529941/8c3f0960-5538-416a-ab6f-db672368bd51)
+![google](https://github.com/LwandoMadebe/Portfolio/assets/147529941/ca7bb49c-9c77-437e-aeff-a04a0b04b63d)
+![vercel](https://github.com/LwandoMadebe/Portfolio/assets/147529941/76c1d6ee-abee-426f-b2a9-84e8a2b65fc4)
+![visualstudiocode](https://github.com/LwandoMadebe/Portfolio/assets/147529941/268d0b40-4aba-4617-b46c-040ca7a5da92)
+
 
 ## Here are some important functions 
 1. The user can browse through the website.
