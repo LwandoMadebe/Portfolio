@@ -3,6 +3,8 @@ Hi, Welcome to my portfolio where some of my works are displayed. Building a por
 
 #### Before we continue run the portfolio below
 
+The portfolio website is deployed using vercel app. 
+
 https://lwando-madebee.vercel.app
 
 ## Langaunges that are used in this projects. 
