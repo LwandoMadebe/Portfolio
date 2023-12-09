@@ -348,6 +348,19 @@ nav .fa-solid{
 
 
 @media only screen and (max-width: 600px){
+    .logo{
+        color: white;
+        font-size: 25px;
+        letter-spacing: 1px;
+        cursor: pointer;
+        border: 8px solid #f9044d;
+    }
+    .picture img{
+        margin: 40px 0px 20px;
+        height: 150px;
+        width: 150px;
+        border-radius: 50%;
+    }
     h1{
         font-size: 30px;
     }
@@ -355,23 +368,28 @@ nav .fa-solid{
         font-size: 25px;
     }
     #about{
-        margin-top: -20px;
+        margin-top: 150px;
         flex-basis: 100%;
+        padding: 10px 0;
+        max-width: 100%;
     }
     .about-text p{
         font-size: 14px;
-        margin-left: 20px;
-        margin-right: 20px;
+        margin-left: 90px;
+        margin-right: 80px;
+        text-align: left;
     }
-    .tab-links{
-        font-size: 20px;
-        margin-right: 20px;
-        margin-left: 70px;
+    .about-text .tab-links{
+        font-size: 16px;
+        margin-right: -40px;
+        margin-left: 90px;
+        text-align: left;
     }
     .tab-contents{
         font-size: 14px;
-        margin-left: 20px;
-        margin-right: 20px;
+        margin-left: 90px;
+        margin-right: 90px;
+        text-align: left;
     }
     nav .fa-solid{
         display: block;
@@ -399,11 +417,21 @@ nav .fa-solid{
         cursor: pointer;
     }
     #projects{
-        margin-top: -30px;
+        margin-top: 80px;
         margin-bottom: 1700px;
+        margin-right: 20px;
+    }
+    .project-list div img{
+        height: 150px;
+        width: 250px;
+        margin-bottom: 30px;
+        border-radius: 10px;
     }
     #gallery{
-        margin-top: -300px;
+        margin-top: 300px;
+    }
+    .container p{
+        margin-right: 20px;
     }
     #contact{
         margin-top: -850px;
@@ -419,4 +447,7 @@ nav .fa-solid{
     color: #61b752;
     margin-top: 10px;
     display: block;
+}
+.copyright{
+    margin-top: 120px;
 }
