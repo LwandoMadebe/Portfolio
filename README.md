@@ -5,7 +5,9 @@ Hi, Welcome to my portfolio where some of my works are displayed. Building a por
 
 https://lwando-madebee.vercel.app
 
-## Langaunges used
+## Langaunges that are used in this projects. 
+
+## Functional requirements
 
 
 # Challenges
