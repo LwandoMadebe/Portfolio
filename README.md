@@ -23,20 +23,26 @@ https://lwando-madebee.vercel.app
 2. The user can download the CV in a pdf format.
 3. The user can click on the icons and the user will be directed at the location of that icon, for instance, if the user click github icon, then the user will be directed to githup page.
 
+<img src="https://github.com/LwandoMadebe/Portfolio/assets/147529941/83ee118f-5371-4b99-b793-974b297ca5a2" width='300'>
+
 #### About me section 
 4. The user can click on tab links that are displayed there, if the user click on the education tab link, the information about education will be displayed.
+<img src="https://github.com/LwandoMadebe/Portfolio/assets/147529941/4f824b44-dfb3-4a70-9dea-f3dbc4d2fd42" width='300'>
    
 
 #### Projects Section
 5. The user can run the projects applications from the website and if the user is using a laptop or desktop the projects will be opened in a new tab. All projects that are displayed in this section are deployed.
 6. If the user click on the github icon, the user will be directed to the project's repository. 
 7. The user can click the + run application and it will open the project on a new tap
+<img src="https://github.com/LwandoMadebe/Portfolio/assets/147529941/5250a9f2-f424-420a-adc0-61ad77601182" width='300'>
 
 #### Gallery Section 
 8.The user can browse through my images that are displayed there.
+<img src="https://github.com/LwandoMadebe/Portfolio/assets/147529941/f34ca36e-9fd4-4677-9996-237d28a4f420" width='300'>
   
 #### Contact form Section 
-9. When user fills the form, the information will be sent to Google Sheets and I used App Scripts to connect the form to Google Sheets. 
+9. When user fills the form, the information will be sent to Google Sheets and I used App Scripts to connect the form to Google Sheets.
+<img src="https://github.com/LwandoMadebe/Portfolio/assets/147529941/f160ff64-6ccd-4be8-9a78-3a4683bfd8cb" width='300'>
 
 ## Challenges
 To make the website responsive to smaller screens like phones and tablets is bit hard. As much as I tried, the responsive of the website will differ from devices to devices.
