@@ -7,7 +7,7 @@ The portfolio website is deployed using vercel app.
 
 https://lwando-madebee.vercel.app
 
-## Langaunges that are used in this projects. 
+## Langaunges and tools that are used in this projects. 
 
 ## Here are some important functions 
 1. The user can browse through the website.
