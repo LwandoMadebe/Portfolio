@@ -48,12 +48,13 @@ nav ul li a:hover{
 .content{
     position: relative;
     text-align: center;
+    padding-bottom: 0px;
     top: 50%;
     left: 8px;
     transform: translateY(-50%);
 }
-.picture img{
-    margin: -100px 0px 20px;
+.picture img {
+    margin: -400px 0px 20px; /* Try reducing the top margin to -50px or set it to 0 */
     height: 150px;
     width: 150px;
     border-radius: 50%;
